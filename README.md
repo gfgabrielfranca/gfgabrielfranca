@@ -1,4 +1,4 @@
-<img align="right" src="./assets/octocat.svg" />
+<img align="right" src="https://raw.githubusercontent.com/gfgabrielfranca/gfgabrielfranca/master/assets/octocat.svg" />
 
 ### Hey, I'm Gabriel França! 👋
 
